@@ -1,3 +1,7 @@
+# Radius Design System Kit End-To-End Testing Demo
+
+This fork of the Radius Design System was created for a demonstration on how to add e2e testing using [TestCafe](https://testcafe.io/) and [Percy.io](https://www.browserstack.com/percy) to a web application.
+
 # Radius Design System Kit
 
 The Radius is an opinionated assemblage of open-source tools and libraries that allow you to accelerate your design system. The choice of tools, their composition, and a set of foundational components guides you on how to build a constraint-based system.
@@ -10,11 +14,11 @@ The Radius is an opinionated assemblage of open-source tools and libraries that 
 
 [Chromatic](https://www.chromaticqa.com/library?appId=5e44874935df3b0022b9d890)
 
-### Are you using Radius?
+## Are you using Radius?
 
 We would love to hear about how you are using Radius or any feedback or feature requests. Open an [issue](https://github.com/rangle/radius/issues/new).
 
-### 🚀 Quick start
+## 🚀 Quick start
 
 To get started you can just clone the repository.
 ____

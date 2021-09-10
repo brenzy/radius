@@ -25,3 +25,5 @@ yarn-error.log*
 
 # IDE files
 .idea/
+/init-percy.bat
+/example/node_modules/
